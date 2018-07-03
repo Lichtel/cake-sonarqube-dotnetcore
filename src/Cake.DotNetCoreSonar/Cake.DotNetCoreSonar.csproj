@@ -4,4 +4,8 @@
     <TargetFramework>netstandard2.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Cake.Common" Version="0.28.1" />
+  </ItemGroup>
+
 </Project>
