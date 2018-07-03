@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cake.DotNetCoreSonar", "src\Cake.DotNetCoreSonar\Cake.DotNetCoreSonar.csproj", "{BE174E17-71B1-406B-97A8-589BE3A42CB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cake.DotNetCoreSonar.Tests", "src\Cake.DotNetCoreSonar.Tests\Cake.DotNetCoreSonar.Tests.csproj", "{FDF23DB2-9164-4BA6-B8C7-2F0AC648B711}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE174E17-71B1-406B-97A8-589BE3A42CB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE174E17-71B1-406B-97A8-589BE3A42CB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE174E17-71B1-406B-97A8-589BE3A42CB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE174E17-71B1-406B-97A8-589BE3A42CB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDF23DB2-9164-4BA6-B8C7-2F0AC648B711}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDF23DB2-9164-4BA6-B8C7-2F0AC648B711}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDF23DB2-9164-4BA6-B8C7-2F0AC648B711}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDF23DB2-9164-4BA6-B8C7-2F0AC648B711}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA959DA7-DE28-4E96-B0F6-1A8DE769F0E0}
+	EndGlobalSection
+EndGlobal
